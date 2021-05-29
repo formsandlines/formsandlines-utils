@@ -1,0 +1,15 @@
+{
+  "name": "formsandlines-utils",
+  "version": "0.1.0",
+  "description": "Utils library for github.com/formsandlines projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Hofmann / various other authors",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.48",
+    "canvg": "^1.5.3"
+  }
+}
