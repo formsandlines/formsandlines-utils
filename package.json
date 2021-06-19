@@ -1,6 +1,6 @@
 {
   "name": "formsandlines-utils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Utils library for github.com/formsandlines projects",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
   "dependencies": {
     "big-integer": "^1.6.48",
     "canvg": "^1.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-plugin-compat": "^3.9.0"
   }
 }
